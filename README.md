@@ -6,10 +6,10 @@ docker run -it --rm -m=512m --name limit512 --mount source=RemoteVol,target=/log
 docker run -it --rm -m=512m --name limit512 --mount source=RemoteVol,target=/logi alpine
 
 Kiedy pojawi się znaczek zachęty #, użytwamy komend:
-ls
-cd logi
-ls
-cat info.log?
+ls <br>
+cd logi <br>
+ls <br>
+cat info.log? <br>
 
 aby wyśc należy użyć kombinacji klawiszu
 ctrl+q i ctrl+p
